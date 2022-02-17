@@ -1,0 +1,23 @@
+{
+  "name": "discord-images",
+  "version": "1.0.0",
+  "description": "Get anime actions image",
+  "main": "kara.js",
+  "types": "./typings/kara.d.ts",
+  "keywords": [
+    "anime",
+    "discord.js",
+    "discord",
+    "hug",
+    "sad",
+    "bonk",
+    "actions",
+    "slap",
+    "anime gif"
+  ],
+  "author": "Kara#0905",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}

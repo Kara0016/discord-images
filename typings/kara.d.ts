@@ -78,6 +78,4 @@ declare module "img" {
   export function spoiler(): string;
   export function kemonomimi(): string;
   export function catboy(): string;
-
 }
-  

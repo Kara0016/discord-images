@@ -108,6 +108,9 @@ module.exports = {
 ### Support-Gustave
 
 
+
+## Bots using this module
+
 ### Gustave Bot
 ---
 

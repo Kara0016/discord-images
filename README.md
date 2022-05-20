@@ -101,18 +101,25 @@ module.exports = {
 }
 ```
 
-
 ## Support Server
 
-<a href="https://discord.gg/6qzkefEvRB"><img src="https://cdn.discordapp.com/avatars/876210410104172606/05802116f35693549501a74dd77162c2.webp?size=80"/></a>
+<a href="https://discord.gg/6qzkefEvRB">Clic here</a>
 
 ### Support-Gustave
 
-## Bots using this module
-
-<a href="https://discord.gg/6qzkefEvRB">
-    <img src="https://cdn.discordapp.com/avatars/876210410104172606/05802116f35693549501a74dd77162c2.webp?size=80" alt="Gustave Bot" />
-</a>
 
 ### Gustave Bot
+---
 
+A multipurpose bot to help you with your server tasks.
+
+[Discord](https://discord.gg/6qzkefEvRB) |
+[Invite](https://discord.com/api/oauth2/authorize?client_id=876210410104172606&permissions=8&scope=bot%20applications.commands)
+
+### Ping-It
+---
+
+Ping-It: The perfect mini-game and entertainment bot for your discord server! Lots of modules like Levelling, Games, Utility, Etc!
+
+[Invite](https://discord.com/oauth2/authorize?client_id=955086662969458769&scope=bot) |
+[Top.gg](https://top.gg/bot/955086662969458769)
